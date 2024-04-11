@@ -3,8 +3,8 @@ const array = ['kennen', 'können', 'müssen', 'kommen', 'leihen', 'lesen', 'nen
                'sprechen', 'sterben', 'schwimmen', 'singen', 'sitzen', 'scheinen', 'schließen', 'laufen', 
                'lassen', 'backen', 'bieten', 'bitten', 'beginnen', 'bleiben', 'brechen', 'bringen', 'dürfen',
                'fahren', 'fallen', 'fangen', 'finden', 'fliegen', 'haben', 'hängen', 'heben', 
-               'heißen', 'helfen', 'gehen', 'geben', 'halten', 'essen', 'denken', 'tragen', 'treffen', 'treiben'
-               'treten', 'trinken', 'tun', 'vergessen', 'verlieren', 'wachsen', 'waschen', 'werden', 'werfen', 'wiegen'
+               'heißen', 'helfen', 'gehen', 'geben', 'halten', 'essen', 'denken', 'tragen', 'treffen', 'treiben',
+               'treten', 'trinken', 'tun', 'vergessen', 'verlieren', 'wachsen', 'waschen', 'werden', 'werfen', 'wiegen',
                'wissen', 'wollen', 'ziehen', 'schlagen']
 // let used = []
 let result = document.getElementById('result');
